@@ -2,4 +2,4 @@
 - 👀 I am very interested in Data Science and Machine Learning
 - 🌱 Currently, I am actively learning Machine Learning
 - 💞️ I am looking for opportunities to collaborate on Kaggle platform
-- 📫 If you want to contact me, feel free to send a message to muhammadalvi.23339@mhs.unes.ac.id
+- 📫 If you want to contact me, feel free to send a message to muhammadalvi.23339@mhs.unesa.ac.id
