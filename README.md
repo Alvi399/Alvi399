@@ -6,4 +6,5 @@
 
   
 
-![62a4be72fdee15d2905007bc](https://github.com/Alvi399/Alvi399/assets/143760371/0c34dc97-5f69-402d-948a-e15c0919a79b)
+
+![lovepik-technological-particles-background-image_401941574](https://github.com/Alvi399/Alvi399/assets/143760371/04066e33-d02b-4fbc-99a0-97473f62efc8)
