@@ -63,13 +63,13 @@ I'm an Informatics Engineering student focusing on **Artificial Intelligence**. 
 <div align="center">
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api?username=Alvi399&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"
-    alt="GitHub account statistics"
+    src="https://github-stats-extended.vercel.app/api?username=Alvi399&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Statistics"
   />
   <img
     height="165"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alvi399&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
-    alt="Most used programming languages"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Alvi399&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
+    alt="Most Used Languages"
   />
 </div>
 
@@ -122,5 +122,5 @@ I'm an Informatics Engineering student focusing on **Artificial Intelligence**. 
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:123A63,100:0B1220&height=100&section=footer" width="100%" alt="Animated footer wave" />
+  <img src="https://github-stats-extended.vercel.app/api?type=waving&color=0:0EA5E9,50:123A63,100:0B1220&height=100&section=footer" width="100%" alt="Animated footer wave" />
 </div>
