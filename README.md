@@ -121,6 +121,12 @@ I'm an Informatics Engineering student focusing on **Artificial Intelligence**. 
   <sub>Build with curiosity. Validate with evidence. Improve with every iteration.</sub>
 </div>
 
+
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?type=waving&color=0:0EA5E9,50:123A63,100:0B1220&height=100&section=footer" width="100%" alt="Animated footer wave" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:123A63,100:0B1220&height=100&section=footer&animation=fadeIn"
+    width="100%"
+    alt="Animated engineering footer"
+  />
 </div>
+
