@@ -83,7 +83,7 @@ I'm an Informatics Engineering student focusing on **Artificial Intelligence**. 
 
 <div align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Alvi399&theme=tokyo-night&hide_border=true&area=true"
+    src="https://fabianocouto-activity-graph.vercel.app/graph/?username=Alvi399&theme=tokyo-night&hide_border=true&area=true"
     width="100%"
     alt="GitHub contribution activity graph"
   />
